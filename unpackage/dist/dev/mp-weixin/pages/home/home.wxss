@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.usticky.data-v-92bb8f34 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  z-index: 999;
+}
+.content.data-v-92bb8f34 {
+  background-color: #f5f6f7;
+}
+.content .wrapper.data-v-92bb8f34 {
+  padding: 24rpx 0;
+}
+.list-item.data-v-92bb8f34 {
+  background: #fff;
+  margin-bottom: 20rpx;
+  padding: 30rpx;
+}
+.list-head.data-v-92bb8f34 {
+  margin-bottom: 18rpx;
+}
+.list-head .type.data-v-92bb8f34 {
+  display: inline-block;
+  height: 36rpx;
+  width: 72rpx;
+  text-align: center;
+  line-height: 36rpx;
+  white-space: nowrap;
+  margin-right: 10rpx;
+  font-size: 24rpx;
+  border-radius: 18rpx;
+  border-bottom-left-radius: 0;
+  color: #fff;
+  background-color: red;
+  position: relative;
+  top: -4rpx;
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+.list-head .type-share.data-v-92bb8f34 {
+  background-color: #feb21e;
+}
+.list-head .type-ask.data-v-92bb8f34 {
+  background-color: #02d199;
+}
+.list-head .type-discuss.data-v-92bb8f34 {
+  background-color: #fe1e1e;
+}
+.list-head .type-advise.data-v-92bb8f34 {
+  background-color: #0166f8;
+}
+.list-head .type-notice.data-v-92bb8f34 {
+  background-color: #00a3b8;
+}
+.list-head .type-logs.data-v-92bb8f34 {
+  background-color: #33cb61;
+}
+.list-head .title.data-v-92bb8f34 {
+  color: #333;
+  font-size: 32rpx;
+  line-height: 44rpx;
+  font-weight: bold;
+}
+.author.data-v-92bb8f34 {
+  display: flex;
+  margin-bottom: 10px;
+}
+.author .uimage.data-v-92bb8f34 {
+  display: inline-block;
+}
+.author .username.data-v-92bb8f34 {
+  display: inline-block;
+  margin-left: 5px;
+  color: #666;
+  font-size: 29rpx;
+}
+.list-body.data-v-92bb8f34 {
+  margin-bottom: 30rpx;
+  display: flex;
+}
+.list-body .info.data-v-92bb8f34 {
+  margin-right: 20rpx;
+  font-size: 28rpx;
+  color: #666;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.list-body .fmt.data-v-92bb8f34 {
+  width: 165rpx;
+  height: 119rpx;
+  border-radius: 8rpx;
+  flex-shrink: 0;
+}
+.list-footer.data-v-92bb8f34 {
+  color: #999;
+  font-size: 24rpx;
+  display: flex;
+}
+.list-footer .left .reply-num.data-v-92bb8f34 {
+  margin-right: 25rpx;
+}
+

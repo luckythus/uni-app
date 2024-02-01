@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['$emit',['click']]]]]}}" class="search data-v-eb1fb978" style="{{'padding-top:'+(barHeight+'px')+';'}}" bindtap="__e"><view class="search-box data-v-eb1fb978"><u-icon class="icon data-v-eb1fb978" vue-id="78d6737c-1" name="search" color="#ccc" size="22" bind:__l="__l"></u-icon><text class="data-v-eb1fb978">搜索社区内容</text></view></view>
